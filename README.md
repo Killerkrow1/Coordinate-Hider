@@ -1,0 +1,1 @@
+Smol mod that hides coordinates of the F3 screen
